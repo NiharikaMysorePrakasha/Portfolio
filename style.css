@@ -56,6 +56,7 @@ nav {
   display: none;
   font-size: 2rem;
   cursor: pointer;
+  margin-left: auto;
 }
 
 nav ul {
