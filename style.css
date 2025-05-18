@@ -12,7 +12,6 @@ body {
   color: #333;
   scroll-behavior: smooth;
   line-height: 1.6;
-  padding: 0 16px;
 }
 
 a {
@@ -643,6 +642,10 @@ a {
   margin-bottom: 0;
 }
 
+.section:not(#hero) {
+  padding-left: 16px;
+  padding-right: 16px;
+}
 
 
 
